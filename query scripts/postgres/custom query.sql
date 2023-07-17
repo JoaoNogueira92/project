@@ -1,0 +1,2 @@
+EXPLAIN ANALYZE
+SELECT * FROM estimated_coordinates LIMIT 4000000

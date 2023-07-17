@@ -1,0 +1,7 @@
+//CUSTOM
+PROFILE
+MATCH (n:Estimated_coordinates)
+WITH n
+SKIP 3500000
+LIMIT 500000
+RETURN n  
